@@ -37,6 +37,6 @@ root                    (project root folder)
 
 ## Authors
 
-Christian Martinez
+Christian Martinez - mar16125@byui.edu 
 Chandler Owen - owenc@byui.edu
 
