@@ -1,3 +1,6 @@
+#Completed by: Chandler Owen, Christian Martinez and _____
+
+
 # Hilo
 How much are you willing to lose? Play <i>HiLo</i> to find out! The rules are 
 simple. The dealer draws a new card. You guess if the next one will be higher or 
