@@ -1,4 +1,3 @@
-#Completed by: Chandler Owen, Christian Martinez and _____
 
 
 # Hilo
@@ -37,5 +36,7 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
----
-* TODO: Add your names and emails here
+
+Christian Martinez
+Chandler Owen - owenc@byui.edu
+
