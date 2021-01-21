@@ -1,6 +1,5 @@
-#comp_card class
+from game.rand_card import rand_card
 
-import rand_card as rand_card
 
 class comp_card:
     #compares past card with new card
