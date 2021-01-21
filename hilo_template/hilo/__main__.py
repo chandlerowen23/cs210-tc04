@@ -10,8 +10,9 @@
 #Enhanced card representation (incorporate Jack, Queen, King and Ace)
 #Enhanced game display (e.g. different colors for correct or incorrect guesses)
 
-import game.comp_card as Cards
+from game.comp_card import comp_card
+from game.rand_card import rand_card
 
-hilo = Cards()
-hilo.start_game()
+Hilo = comp_card()
+Hilo.start_game()
 
