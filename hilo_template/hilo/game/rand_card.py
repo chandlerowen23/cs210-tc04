@@ -1,5 +1,3 @@
-#rand_card Class
-
 import random
 
 class rand_card:
